@@ -4,21 +4,33 @@ We're going to build an application to track checking and savings account balanc
 
 ## Pseudocode
 
-Spend up to 20 minutes to write some pseudocode for the lab. Think carefully about every step involved in using an ATM. For example, it allows users to input a dollar amount when they want deposit money. Also, think about how there are two types of accounts -- checking and savings. Take a look at the **Specifications** below to guide your pseudo.
+Spend up to 20 minutes to write some pseudocode for the lab. Think carefully about every step involved in using an ATM. For example, it allows users to input a dollar amount when they want deposit money. Also, think about how there are two types of accounts -- checking and savings. Take a look at the **Specifications** below to guide your pseudocode.
 
 Include your pseudocode as comments within your program.
 
-## Specifications
+## Requirements
 
-1. Users can deposit money into one of the bank accounts
-- Users can withdraw money from one of the bank accounts
-- Make sure the balance in an account can't go negative. If a user tries to withdraw more money than exists in the account, ignore the transaction.
+**Reminder: This is a graded lab assigment**
+
+
+>You must achieve a score of 75% or above to pass this assignment **(6 of 8 requirements)**. If you are unable to complete the lab with at least 6 completed requirements, you will have one week to redo and resubmit the lab.
+
+
+### Grading Rubric
+
+- users can deposit money into an account
+- users can withdraw money from an account
+- account does not allow a negative balance
 - The color of a bank account should reflect its balance. (There's a CSS class called `.zero` already written for this.)
-- You may edit the HTML file (but might not need to).
+- Student uses git to commit work early and often
+- two accounts have independent functionality
+- student uses consistent indentation to write readable code ([brief style-guide](https://courses.cs.washington.edu/courses/cse154/17au/styleguide/js/spacing-indentation-js.html))
+- student left clear comments throughout code
+
 
 ## Commits to Make (Suggested)
 
-By no means do you have to follow this. It's just here to help you get started if needed.
+By no means do you have to follow this. It's just here to help you get started if needed. You may edit the HTML file (but might not need to).
 
 Note that these commits are all for the checking account only. Take this one account at a time.
 
