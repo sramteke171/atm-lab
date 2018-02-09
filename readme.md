@@ -34,7 +34,7 @@ By no means do you have to follow this. It's just here to help you get started i
 
 Note that these commits are all for the checking account only. Take this one account at a time.
 
-1. Test jQuery is working
+- Test JavaScript is working
   - Make the `<body>`'s background color turn red
 - Add a click listener to the **checking account's** "Deposit" button
   - When you click the button it should `console.log("hello")`
