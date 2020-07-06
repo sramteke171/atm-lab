@@ -11,7 +11,7 @@ balances.
 1. Change into the new directory.
 1. Fulfill the listed requirements.
 
-Starter code is available in [`lib/challenge.js`](lib/challenge.js). You are
+Starter code is available in the `src` directory. You are
 required to turn in your submission by making a pull request on the original
 repository.
 
